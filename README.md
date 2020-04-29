@@ -1,5 +1,6 @@
-A simple Todo-App built using React.js <br/ >
-![Screenshot](Screenshot (508).png)
+A simple Todo-App built using React.js
+
+![Screenshot](Screenshot(508).png)
 
 
 
