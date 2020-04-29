@@ -1,3 +1,8 @@
+A simple Todo-App built using React.js <br/ >
+![Screenshot](Screenshot (508).png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
